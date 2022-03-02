@@ -1,4 +1,4 @@
-$c_start★央视★$c_end 密码：
+★央视★,#genre#
 CCTV1,http://liuweiiptv.cf:1357/ecdl.php?id=57910&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CCTV1,http://liuweiiptv.cf:1357/ecdl.php?id=57911&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CCTV2,http://liuweiiptv.cf:1357/ecdl.php?id=57912&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -61,7 +61,7 @@ DOXTV,http://liuweiiptv.cf:1357/ecdl.php?id=57967&zid=2956aab8ff7a4cc0b9cc0268f5
 生活时尚,http://liuweiiptv.cf:1357/ecdl.php?id=57969&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 都市剧场,http://liuweiiptv.cf:1357/ecdl.php?id=57970&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 都市剧场,http://liuweiiptv.cf:1357/ecdl.php?id=57971&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★卫视★$c_end 密码：
+★卫视★,#genre#
 安徽卫视,http://liuweiiptv.cf:1357/ecdl.php?id=57972&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 安徽卫视,http://liuweiiptv.cf:1357/ecdl.php?id=57973&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 安徽卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58015&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -162,7 +162,7 @@ X藏卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58040&zid=2956aab8ff7a4cc0b9cc0
 旅游卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58044&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 河南卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58054&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黑龙江卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58067&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★地方★$c_end 密码：
+★地方★,#genre#
 北海新闻综合,http://liuweiiptv.cf:1357/ecdl.php?id=47932&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 钦州,http://liuweiiptv.cf:1357/ecdl.php?id=47933&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 玉林电视台,http://liuweiiptv.cf:1357/ecdl.php?id=47934&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -752,7 +752,7 @@ SITV欢笑剧场,http://liuweiiptv.cf:1357/ecdl.php?id=48299&zid=2956aab8ff7a4cc
 海南公共,http://player.ioioz.com/1691/hainan/hainanm3u8.php?id=6
 海南新闻,http://player.ioioz.com/1691/hainan/hainanm3u8.php?id=5
 海南经济,http://player.ioioz.com/1691/hainan/hainanm3u8.php?id=4
-$c_start★数字★$c_end 密码：
+★数字★,#genre#
 NewTV中国功夫,http://liuweiiptv.cf:1357/ecdl.php?id=58138&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 NewTV健康有约,http://liuweiiptv.cf:1357/ecdl.php?id=58139&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 NewTV军事评论,http://liuweiiptv.cf:1357/ecdl.php?id=58140&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -805,7 +805,7 @@ NewTV超级综艺,http://liuweiiptv.cf:1357/ecdl.php?id=58188&zid=2956aab8ff7a4c
 NewTV超级综艺,http://liuweiiptv.cf:1357/ecdl.php?id=58189&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 NewTV金牌综艺,http://liuweiiptv.cf:1357/ecdl.php?id=58177&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 NewTV金牌综艺,http://liuweiiptv.cf:1357/ecdl.php?id=58178&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★体育★$c_end 密码：
+★体育★,#genre#
 北京冬奥纪實,http://liuweiiptv.cf:1357/ecdl.php?id=49854&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 北京冬奥纪實,http://liuweiiptv.cf:1357/ecdl.php?id=49855&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 北京冬奥纪實,http://liuweiiptv.cf:1357/ecdl.php?id=49856&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -862,7 +862,7 @@ U影厅,http://103.140.229.13/BOBO/bibi.php?id=22449693
 橙子2台,http://103.140.229.13/BOBO/bibi.php?id=21571201
 橙子3台,http://103.140.229.13/BOBO/bibi.php?id=23318768
 橙子4台,http://103.140.229.13/BOBO/bibi.php?id=23320714
-$c_start★酷狗★$c_end 密码：
+★酷狗★,#genre#
 酷狗西游记,http://liuweiiptv.cf:1357/ecdl.php?id=53991&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 酷狗吴孟达,http://liuweiiptv.cf:1357/ecdl.php?id=53992&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 酷狗成龙,http://liuweiiptv.cf:1357/ecdl.php?id=53993&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -885,7 +885,7 @@ $c_start★酷狗★$c_end 密码：
 酷狗金庸,http://liuweiiptv.cf:1357/ecdl.php?id=54010&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 酷狗反贪风暴,http://liuweiiptv.cf:1357/ecdl.php?id=54011&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 酷狗赌神,http://liuweiiptv.cf:1357/ecdl.php?id=54012&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★歪歪★$c_end 密码：
+★歪歪★,#genre#
 经典怀旧,http://www.qidu.gq/zhibo/yy1.php?t=1353518742
 杰周润发,http://www.qidu.gq/zhibo/yy1.php?t=19681748
 网球王子,http://www.qidu.gq/zhibo/yy1.php?t=22777075
@@ -1050,7 +1050,7 @@ $c_start★歪歪★$c_end 密码：
 热门剧集,http://www.qidu.gq/zhibo/yy1.php?t=39020846
 怀旧剧集,http://www.qidu.gq/zhibo/yy1.php?t=244746189
 三国演义,http://www.qidu.gq/zhibo/yy1.php?t=365367911
-$c_start★优酷★$c_end 密码：
+★优酷★,#genre#
 优酷-沈腾,http://www.qidu.gq/zhibo/youku.php?id=8026514
 优酷-黎明,http://www.qidu.gq/zhibo/youku.php?id=8028239
 优酷-电影,http://www.qidu.gq/zhibo/youku.php?id=8019693
@@ -1075,7 +1075,7 @@ $c_start★优酷★$c_end 密码：
 优酷|如果可以这样爱,http://www.qidu.gq/zhibo/youku.php?id=8019192
 优酷|宋慧乔,http://www.qidu.gq/zhibo/youku.php?id=8020223
 优酷|机器人总动员,http://www.qidu.gq/zhibo/youku.php?id=8019685
-$c_start★虎牙★$c_end 密码：
+★虎牙★,#genre#
 周星驰,http://www.qidu.gq/zhibo/huya.php?id=11342412
 林正英,http://www.qidu.gq/zhibo/huya.php?id=11342421
 成龙,http://www.qidu.gq/zhibo/huya.php?id=11342386
@@ -1307,7 +1307,7 @@ USA大蛇恐怖,http://www.qidu.gq/zhibo/huya.php?id=19564134
 军事视频,http://www.qidu.gq/zhibo/huya.php?id=15824466
 胖仙看王者,http://www.qidu.gq/zhibo/huya.php?id=2688
 舌尖上的中国,http://www.qidu.gq/zhibo/huya.php?id=11352955
-$c_start★斗鱼★$c_end 密码：
+★斗鱼★,#genre#
 邵氏影院,http://www.qidu.gq/zhibo/douyu.php?id=4246519
 贝尔求生,http://www.qidu.gq/zhibo/douyu.php?id=454867
 荒野生存,http://www.qidu.gq/zhibo/douyu.php?id=1339207
@@ -1648,7 +1648,7 @@ Kpop女团,http://www.qidu.gq/zhibo/douyu.php?id=329667
 影评大神,http://www.qidu.gq/zhibo/douyu.php?id=1351461341
 影视解说,http://www.qidu.gq/zhibo/douyu.php?id=1351494949
 迷你短剧,http://www.qidu.gq/zhibo/douyu.php?id=1351511282
-$c_start★景区★$c_end 密码：
+★景区★,#genre#
 全国风景总览,http://liuweiiptv.cf:1357/ecdl.php?id=2841&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黟县宏村月沼,http://liuweiiptv.cf:1357/ecdl.php?id=2842&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黟县宏村南湖,http://liuweiiptv.cf:1357/ecdl.php?id=2843&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -1996,7 +1996,7 @@ $c_start★景区★$c_end 密码：
 峨眉山云海日出,http://liuweiiptv.cf:1357/ecdl.php?id=3183&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 峨眉山普贤菩萨铜像(回放),http://liuweiiptv.cf:1357/ecdl.php?id=3184&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 峨眉山远眺万佛顶(回放),http://liuweiiptv.cf:1357/ecdl.php?id=3185&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★音乐★$c_end 密码：
+★音乐★,#genre#
 MTV1,http://liuweiiptv.cf:1357/ecdl.php?id=19363&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 MTV2,http://liuweiiptv.cf:1357/ecdl.php?id=19364&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 MTV3,http://liuweiiptv.cf:1357/ecdl.php?id=19365&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -3080,7 +3080,7 @@ MTV1080,http://liuweiiptv.cf:1357/ecdl.php?id=20442&zid=2956aab8ff7a4cc0b9cc0268
 MTV1081,http://liuweiiptv.cf:1357/ecdl.php?id=20443&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 MTV1082,http://liuweiiptv.cf:1357/ecdl.php?id=20444&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 MTV1083,http://liuweiiptv.cf:1357/ecdl.php?id=20445&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★咪咕★$c_end 密码：
+★咪咕★,#genre#
 咪咕视频 西甲-1,http://liuweiiptv.cf:1357/ecdl.php?id=55557&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 咪咕视频 西甲-2,http://liuweiiptv.cf:1357/ecdl.php?id=55558&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 咪咕视频 足球？,http://liuweiiptv.cf:1357/ecdl.php?id=55559&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -3197,7 +3197,7 @@ $c_start★咪咕★$c_end 密码：
 广西咪咕_61,http://liuweiiptv.cf:1357/ecdl.php?id=55670&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 广西咪咕_62,http://liuweiiptv.cf:1357/ecdl.php?id=55671&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 广西咪咕_63,http://liuweiiptv.cf:1357/ecdl.php?id=55672&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★经典★$c_end 密码：
+★经典★,#genre#
 爱院线,http://liuweiiptv.cf:1357/ecdl.php?id=58190&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 爱科幻,http://liuweiiptv.cf:1357/ecdl.php?id=58191&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 爱喜剧,http://liuweiiptv.cf:1357/ecdl.php?id=58192&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -3228,7 +3228,7 @@ $c_start★经典★$c_end 密码：
 爱猎奇,http://liuweiiptv.cf:1357/ecdl.php?id=58217&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 爱解密,http://liuweiiptv.cf:1357/ecdl.php?id=58218&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 爱世界,http://liuweiiptv.cf:1357/ecdl.php?id=58219&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★cibn★$c_end 密码：
+★cibn★,#genre#
 CIBN微电影,http://liuweiiptv.cf:1357/ecdl.php?id=58076&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CIBN流金岁月,http://liuweiiptv.cf:1357/ecdl.php?id=58077&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CIBN经典剧场,http://liuweiiptv.cf:1357/ecdl.php?id=58078&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -3239,7 +3239,7 @@ CIBN  真人秀,http://liuweiiptv.cf:1357/ecdl.php?id=58082&zid=2956aab8ff7a4cc0
 CIBN    综合,http://liuweiiptv.cf:1357/ecdl.php?id=58083&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CIBN  纪录片,http://liuweiiptv.cf:1357/ecdl.php?id=58084&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CIBN风尚运动,http://liuweiiptv.cf:1357/ecdl.php?id=58085&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★企鹅★$c_end 密码：
+★企鹅★,#genre#
 企鹅电竞,http://www.qidu.gq/zhibo/egame.php?id=432863
 企鹅电影,http://www.qidu.gq/zhibo/egame.php?id=382971876
 恐怖喜剧经典,http://www.qidu.gq/zhibo/egame.php?id=490905763
@@ -3299,7 +3299,7 @@ $c_start★企鹅★$c_end 密码：
 【名侦探柯南】死神小学生,http://www.qidu.gq/zhibo/egame.php?id=158617293
 斗罗大陆第129话最新集,http://www.qidu.gq/zhibo/egame.php?id=9774031
 海绵宝宝樱桃小丸子,http://www.qidu.gq/zhibo/egame.php?id=34258157
-$c_start★B站★$c_end 密码：
+★B站★,#genre#
 郭德纲于谦：湛湛青天不可欺~,http://www.qidu.gq/zhibo/bili.php?id=896137
 郭德纲于谦晚安相声音频24小时轮播,http://www.qidu.gq/zhibo/bili.php?id=5854051
 德云相声24*7直播 - 全B站最高音质,http://www.qidu.gq/zhibo/bili.php?id=7035162
@@ -3643,7 +3643,7 @@ ACG动漫图赏,http://www.qidu.gq/zhibo/bili.php?id=22104452
 【小林放映厅】动作 喜剧 恐怖 动漫你懂,http://www.qidu.gq/zhibo/bili.php?id=21906879
 一起来听EXO,http://www.qidu.gq/zhibo/bili.php?id=22468321
 【人间透口气】不是我的歌单,http://www.qidu.gq/zhibo/bili.php?id=22325415
-$c_start★港剧★$c_end 密码：
+★港剧★,#genre#
 埋堆堆1,http://www.qidu.gq/zhibo/huya.php?id=23749096
 埋堆堆2,http://www.qidu.gq/zhibo/huya.php?id=23735126
 埋堆堆3,http://www.qidu.gq/zhibo/huya.php?id=23865152
@@ -3710,7 +3710,7 @@ $c_start★港剧★$c_end 密码：
 埋堆堆64,http://www.qidu.gq/zhibo/huya.php?id=23728595
 埋堆堆65,http://www.qidu.gq/zhibo/huya.php?id=23734256
 埋堆堆66,http://www.qidu.gq/zhibo/huya.php?id=23829543
-$c_start★电影★$c_end 密码：
+★电影★,#genre#
 FOX电影,http://liuweiiptv.cf:1357/ecdl.php?id=49769&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 1905电影网,http://106.53.212.251/daili/bili.php?id=22728767
 金马影院,http://liuweiiptv.cf:1357/ecdl.php?id=49771&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -3796,7 +3796,7 @@ CHC华城影视,http://liuweiiptv.cf:1357/ecdl.php?id=49832&zid=2956aab8ff7a4cc0
 海西影视,http://liuweiiptv.cf:1357/ecdl.php?id=49851&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 吉林篮球,http://liuweiiptv.cf:1357/ecdl.php?id=49852&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 4+汽车,http://liuweiiptv.cf:1357/ecdl.php?id=49853&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★影视★$c_end 密码：
+★影视★,#genre#
 经典港剧,http://liuweiiptv.cf:1357/ecdl.php?id=49910&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 喜剧影院,http://liuweiiptv.cf:1357/ecdl.php?id=49911&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 动作影院,http://liuweiiptv.cf:1357/ecdl.php?id=49912&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -3914,7 +3914,7 @@ ATV 1,http://liuweiiptv.cf:1357/ecdl.php?id=50003&zid=2956aab8ff7a4cc0b9cc0268f5
 新视觉,http://liuweiiptv.cf:1357/ecdl.php?id=50024&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 体育赛事,http://liuweiiptv.cf:1357/ecdl.php?id=50025&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 华侨城,http://liuweiiptv.cf:1357/ecdl.php?id=50026&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★影院★$c_end 密码：
+★影院★,#genre#
 黑莓电影,http://liuweiiptv.cf:1357/ecdl.php?id=50027&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黑莓电影,http://liuweiiptv.cf:1357/ecdl.php?id=50042&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 都市剧场,http://liuweiiptv.cf:1357/ecdl.php?id=50028&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -3931,7 +3931,7 @@ $c_start★影院★$c_end 密码：
 葛優作品集,http://liuweiiptv.cf:1357/ecdl.php?id=50039&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 殭屍劇場,http://liuweiiptv.cf:1357/ecdl.php?id=50040&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 TVB劇場,http://liuweiiptv.cf:1357/ecdl.php?id=50041&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★黑莓★$c_end 密码：
+★黑莓★,#genre#
 黑莓动画,http://liuweiiptv.cf:1357/ecdl.php?id=54013&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黑莓动画,http://liuweiiptv.cf:1357/ecdl.php?id=54014&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黑莓动画,http://liuweiiptv.cf:1357/ecdl.php?id=54015&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -3959,7 +3959,7 @@ $c_start★黑莓★$c_end 密码：
 黑莓电竞,http://liuweiiptv.cf:1357/ecdl.php?id=54037&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 pp体育,http://liuweiiptv.cf:1357/ecdl.php?id=54038&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 PP体育,http://liuweiiptv.cf:1357/ecdl.php?id=54039&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★chc★$c_end 密码：
+★chc★,#genre#
 CHC动作电影,http://liuweiiptv.cf:1357/ecdl.php?id=50043&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CHC动作电影,http://liuweiiptv.cf:1357/ecdl.php?id=50044&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CHC动作电影,http://liuweiiptv.cf:1357/ecdl.php?id=50045&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -3987,7 +3987,7 @@ CHC家庭影院,http://liuweiiptv.cf:1357/ecdl.php?id=50066&zid=2956aab8ff7a4cc0
 CHC家庭影院,http://liuweiiptv.cf:1357/ecdl.php?id=50067&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CHC家庭影院,http://liuweiiptv.cf:1357/ecdl.php?id=50068&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CHC家庭影院,http://liuweiiptv.cf:1357/ecdl.php?id=50069&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★少儿★$c_end 密码：
+★少儿★,#genre#
 优漫卡通,http://liuweiiptv.cf:1357/ecdl.php?id=50070&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 卡酷少儿,http://liuweiiptv.cf:1357/ecdl.php?id=50071&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 哈哈炫动,http://liuweiiptv.cf:1357/ecdl.php?id=50072&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -4010,7 +4010,7 @@ Bestv动画1,rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil
 多拉A梦,http://kkiptv.hk3.20212021.ml/bili.php?id=482946
 樱桃小丸子,http://kkiptv.hk3.20212021.ml/bili.php?id=21614203
 樱桃小丸子,http://kkiptv.hk3.20212021.ml/bili.php?id=11765640
-$c_start★港台★$c_end 密码：
+★港台★,#genre#
 凤凰卫视中文台,http://zhiboyuan.cf:2021/225iptv.php?id=44
 凤凰卫视资讯台,http://zhiboyuan.cf:2021/225iptv.php?id=45
 凤凰卫视香港台,http://zhiboyuan.cf:2021/225iptv.php?id=46
@@ -4117,8 +4117,8 @@ TVBS综合台,http://zhiboyuan.cf:2021/225iptv.php?id=31
 台湾中视,http://zhiboyuan.cf:2021/225iptv.php?id=41
 寰宇新闻2台,http://zhiboyuan.cf:2021/225iptv.php?id=42
 寰宇新闻台,http://zhiboyuan.cf:2021/225iptv.php?id=43
-$c_start我的收藏$c_end 密码：
-$c_start正版交流群$c_end 密码：
+我的收藏,#genre#
+正版交流群,#genre#
 六维软件,http://zhiboyuan.cf:2021/uc.php?id=180
 免费提供,http://zhiboyuan.cf:2021/uc.php?id=181
 如有收费,http://zhiboyuan.cf:2021/uc.php?id=182
@@ -4127,7 +4127,7 @@ $c_start正版交流群$c_end 密码：
 给你退款,http://zhiboyuan.cf:2021/uc.php?id=185
 我不承担,http://zhiboyuan.cf:2021/uc.php?id=178
 盗版纠纷,http://zhiboyuan.cf:2021/uc.php?id=177
-$c_start★央视★$c_end 密码：
+★央视★,#genre#
 CCTV1,http://liuweiiptv.cf:1357/ecdl.php?id=57910&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CCTV1,http://liuweiiptv.cf:1357/ecdl.php?id=57911&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CCTV2,http://liuweiiptv.cf:1357/ecdl.php?id=57912&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -4190,7 +4190,7 @@ DOXTV,http://liuweiiptv.cf:1357/ecdl.php?id=57967&zid=2956aab8ff7a4cc0b9cc0268f5
 生活时尚,http://liuweiiptv.cf:1357/ecdl.php?id=57969&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 都市剧场,http://liuweiiptv.cf:1357/ecdl.php?id=57970&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 都市剧场,http://liuweiiptv.cf:1357/ecdl.php?id=57971&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★卫视★$c_end 密码：
+★卫视★,#genre#
 安徽卫视,http://liuweiiptv.cf:1357/ecdl.php?id=57972&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 安徽卫视,http://liuweiiptv.cf:1357/ecdl.php?id=57973&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 安徽卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58015&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -4291,7 +4291,7 @@ X藏卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58040&zid=2956aab8ff7a4cc0b9cc0
 旅游卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58044&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 河南卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58054&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黑龙江卫视,http://liuweiiptv.cf:1357/ecdl.php?id=58067&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★地方★$c_end 密码：
+★地方★,#genre#
 北海新闻综合,http://liuweiiptv.cf:1357/ecdl.php?id=47932&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 钦州,http://liuweiiptv.cf:1357/ecdl.php?id=47933&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 玉林电视台,http://liuweiiptv.cf:1357/ecdl.php?id=47934&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -4881,7 +4881,7 @@ SITV欢笑剧场,http://liuweiiptv.cf:1357/ecdl.php?id=48299&zid=2956aab8ff7a4cc
 海南公共,http://player.ioioz.com/1691/hainan/hainanm3u8.php?id=6
 海南新闻,http://player.ioioz.com/1691/hainan/hainanm3u8.php?id=5
 海南经济,http://player.ioioz.com/1691/hainan/hainanm3u8.php?id=4
-$c_start★数字★$c_end 密码：
+★数字★,#genre#
 NewTV中国功夫,http://liuweiiptv.cf:1357/ecdl.php?id=58138&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 NewTV健康有约,http://liuweiiptv.cf:1357/ecdl.php?id=58139&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 NewTV军事评论,http://liuweiiptv.cf:1357/ecdl.php?id=58140&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -4934,7 +4934,7 @@ NewTV超级综艺,http://liuweiiptv.cf:1357/ecdl.php?id=58188&zid=2956aab8ff7a4c
 NewTV超级综艺,http://liuweiiptv.cf:1357/ecdl.php?id=58189&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 NewTV金牌综艺,http://liuweiiptv.cf:1357/ecdl.php?id=58177&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 NewTV金牌综艺,http://liuweiiptv.cf:1357/ecdl.php?id=58178&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★体育★$c_end 密码：
+★体育★,#genre#
 北京冬奥纪實,http://liuweiiptv.cf:1357/ecdl.php?id=49854&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 北京冬奥纪實,http://liuweiiptv.cf:1357/ecdl.php?id=49855&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 北京冬奥纪實,http://liuweiiptv.cf:1357/ecdl.php?id=49856&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -4991,7 +4991,7 @@ U影厅,http://103.140.229.13/BOBO/bibi.php?id=22449693
 橙子2台,http://103.140.229.13/BOBO/bibi.php?id=21571201
 橙子3台,http://103.140.229.13/BOBO/bibi.php?id=23318768
 橙子4台,http://103.140.229.13/BOBO/bibi.php?id=23320714
-$c_start★酷狗★$c_end 密码：
+★酷狗★,#genre#
 酷狗西游记,http://liuweiiptv.cf:1357/ecdl.php?id=53991&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 酷狗吴孟达,http://liuweiiptv.cf:1357/ecdl.php?id=53992&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 酷狗成龙,http://liuweiiptv.cf:1357/ecdl.php?id=53993&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -5014,7 +5014,7 @@ $c_start★酷狗★$c_end 密码：
 酷狗金庸,http://liuweiiptv.cf:1357/ecdl.php?id=54010&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 酷狗反贪风暴,http://liuweiiptv.cf:1357/ecdl.php?id=54011&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 酷狗赌神,http://liuweiiptv.cf:1357/ecdl.php?id=54012&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★歪歪★$c_end 密码：
+★歪歪★,#genre#
 经典怀旧,http://www.qidu.gq/zhibo/yy1.php?t=1353518742
 杰周润发,http://www.qidu.gq/zhibo/yy1.php?t=19681748
 网球王子,http://www.qidu.gq/zhibo/yy1.php?t=22777075
@@ -5179,7 +5179,7 @@ $c_start★歪歪★$c_end 密码：
 热门剧集,http://www.qidu.gq/zhibo/yy1.php?t=39020846
 怀旧剧集,http://www.qidu.gq/zhibo/yy1.php?t=244746189
 三国演义,http://www.qidu.gq/zhibo/yy1.php?t=365367911
-$c_start★优酷★$c_end 密码：
+★优酷★,#genre#
 优酷-沈腾,http://www.qidu.gq/zhibo/youku.php?id=8026514
 优酷-黎明,http://www.qidu.gq/zhibo/youku.php?id=8028239
 优酷-电影,http://www.qidu.gq/zhibo/youku.php?id=8019693
@@ -5204,7 +5204,7 @@ $c_start★优酷★$c_end 密码：
 优酷|如果可以这样爱,http://www.qidu.gq/zhibo/youku.php?id=8019192
 优酷|宋慧乔,http://www.qidu.gq/zhibo/youku.php?id=8020223
 优酷|机器人总动员,http://www.qidu.gq/zhibo/youku.php?id=8019685
-$c_start★虎牙★$c_end 密码：
+★虎牙★,#genre#
 周星驰,http://www.qidu.gq/zhibo/huya.php?id=11342412
 林正英,http://www.qidu.gq/zhibo/huya.php?id=11342421
 成龙,http://www.qidu.gq/zhibo/huya.php?id=11342386
@@ -5436,7 +5436,7 @@ USA大蛇恐怖,http://www.qidu.gq/zhibo/huya.php?id=19564134
 军事视频,http://www.qidu.gq/zhibo/huya.php?id=15824466
 胖仙看王者,http://www.qidu.gq/zhibo/huya.php?id=2688
 舌尖上的中国,http://www.qidu.gq/zhibo/huya.php?id=11352955
-$c_start★斗鱼★$c_end 密码：
+★斗鱼★,#genre#
 邵氏影院,http://www.qidu.gq/zhibo/douyu.php?id=4246519
 贝尔求生,http://www.qidu.gq/zhibo/douyu.php?id=454867
 荒野生存,http://www.qidu.gq/zhibo/douyu.php?id=1339207
@@ -5777,7 +5777,7 @@ Kpop女团,http://www.qidu.gq/zhibo/douyu.php?id=329667
 影评大神,http://www.qidu.gq/zhibo/douyu.php?id=1351461341
 影视解说,http://www.qidu.gq/zhibo/douyu.php?id=1351494949
 迷你短剧,http://www.qidu.gq/zhibo/douyu.php?id=1351511282
-$c_start★景区★$c_end 密码：
+★景区★,#genre#
 全国风景总览,http://liuweiiptv.cf:1357/ecdl.php?id=2841&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黟县宏村月沼,http://liuweiiptv.cf:1357/ecdl.php?id=2842&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黟县宏村南湖,http://liuweiiptv.cf:1357/ecdl.php?id=2843&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -6125,7 +6125,7 @@ $c_start★景区★$c_end 密码：
 峨眉山云海日出,http://liuweiiptv.cf:1357/ecdl.php?id=3183&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 峨眉山普贤菩萨铜像(回放),http://liuweiiptv.cf:1357/ecdl.php?id=3184&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 峨眉山远眺万佛顶(回放),http://liuweiiptv.cf:1357/ecdl.php?id=3185&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★音乐★$c_end 密码：
+★音乐★,#genre#
 MTV1,http://liuweiiptv.cf:1357/ecdl.php?id=19363&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 MTV2,http://liuweiiptv.cf:1357/ecdl.php?id=19364&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 MTV3,http://liuweiiptv.cf:1357/ecdl.php?id=19365&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -7209,7 +7209,7 @@ MTV1080,http://liuweiiptv.cf:1357/ecdl.php?id=20442&zid=2956aab8ff7a4cc0b9cc0268
 MTV1081,http://liuweiiptv.cf:1357/ecdl.php?id=20443&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 MTV1082,http://liuweiiptv.cf:1357/ecdl.php?id=20444&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 MTV1083,http://liuweiiptv.cf:1357/ecdl.php?id=20445&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★咪咕★$c_end 密码：
+★咪咕★,#genre#
 咪咕视频 西甲-1,http://liuweiiptv.cf:1357/ecdl.php?id=55557&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 咪咕视频 西甲-2,http://liuweiiptv.cf:1357/ecdl.php?id=55558&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 咪咕视频 足球？,http://liuweiiptv.cf:1357/ecdl.php?id=55559&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -7326,7 +7326,7 @@ $c_start★咪咕★$c_end 密码：
 广西咪咕_61,http://liuweiiptv.cf:1357/ecdl.php?id=55670&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 广西咪咕_62,http://liuweiiptv.cf:1357/ecdl.php?id=55671&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 广西咪咕_63,http://liuweiiptv.cf:1357/ecdl.php?id=55672&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★经典★$c_end 密码：
+★经典★,#genre#
 爱院线,http://liuweiiptv.cf:1357/ecdl.php?id=58190&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 爱科幻,http://liuweiiptv.cf:1357/ecdl.php?id=58191&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 爱喜剧,http://liuweiiptv.cf:1357/ecdl.php?id=58192&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -7357,7 +7357,7 @@ $c_start★经典★$c_end 密码：
 爱猎奇,http://liuweiiptv.cf:1357/ecdl.php?id=58217&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 爱解密,http://liuweiiptv.cf:1357/ecdl.php?id=58218&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 爱世界,http://liuweiiptv.cf:1357/ecdl.php?id=58219&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★cibn★$c_end 密码：
+★cibn★,#genre#
 CIBN微电影,http://liuweiiptv.cf:1357/ecdl.php?id=58076&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CIBN流金岁月,http://liuweiiptv.cf:1357/ecdl.php?id=58077&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CIBN经典剧场,http://liuweiiptv.cf:1357/ecdl.php?id=58078&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -7368,7 +7368,7 @@ CIBN  真人秀,http://liuweiiptv.cf:1357/ecdl.php?id=58082&zid=2956aab8ff7a4cc0
 CIBN    综合,http://liuweiiptv.cf:1357/ecdl.php?id=58083&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CIBN  纪录片,http://liuweiiptv.cf:1357/ecdl.php?id=58084&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CIBN风尚运动,http://liuweiiptv.cf:1357/ecdl.php?id=58085&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★企鹅★$c_end 密码：
+★企鹅★,#genre#
 企鹅电竞,http://www.qidu.gq/zhibo/egame.php?id=432863
 企鹅电影,http://www.qidu.gq/zhibo/egame.php?id=382971876
 恐怖喜剧经典,http://www.qidu.gq/zhibo/egame.php?id=490905763
@@ -7428,7 +7428,7 @@ $c_start★企鹅★$c_end 密码：
 【名侦探柯南】死神小学生,http://www.qidu.gq/zhibo/egame.php?id=158617293
 斗罗大陆第129话最新集,http://www.qidu.gq/zhibo/egame.php?id=9774031
 海绵宝宝樱桃小丸子,http://www.qidu.gq/zhibo/egame.php?id=34258157
-$c_start★B站★$c_end 密码：
+★B站★,#genre#
 郭德纲于谦：湛湛青天不可欺~,http://www.qidu.gq/zhibo/bili.php?id=896137
 郭德纲于谦晚安相声音频24小时轮播,http://www.qidu.gq/zhibo/bili.php?id=5854051
 德云相声24*7直播 - 全B站最高音质,http://www.qidu.gq/zhibo/bili.php?id=7035162
@@ -7772,7 +7772,7 @@ ACG动漫图赏,http://www.qidu.gq/zhibo/bili.php?id=22104452
 【小林放映厅】动作 喜剧 恐怖 动漫你懂,http://www.qidu.gq/zhibo/bili.php?id=21906879
 一起来听EXO,http://www.qidu.gq/zhibo/bili.php?id=22468321
 【人间透口气】不是我的歌单,http://www.qidu.gq/zhibo/bili.php?id=22325415
-$c_start★港剧★$c_end 密码：
+★港剧★,#genre#
 埋堆堆1,http://www.qidu.gq/zhibo/huya.php?id=23749096
 埋堆堆2,http://www.qidu.gq/zhibo/huya.php?id=23735126
 埋堆堆3,http://www.qidu.gq/zhibo/huya.php?id=23865152
@@ -7839,7 +7839,7 @@ $c_start★港剧★$c_end 密码：
 埋堆堆64,http://www.qidu.gq/zhibo/huya.php?id=23728595
 埋堆堆65,http://www.qidu.gq/zhibo/huya.php?id=23734256
 埋堆堆66,http://www.qidu.gq/zhibo/huya.php?id=23829543
-$c_start★电影★$c_end 密码：
+★电影★,#genre#
 FOX电影,http://liuweiiptv.cf:1357/ecdl.php?id=49769&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 1905电影网,http://106.53.212.251/daili/bili.php?id=22728767
 金马影院,http://liuweiiptv.cf:1357/ecdl.php?id=49771&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -7925,7 +7925,7 @@ CHC华城影视,http://liuweiiptv.cf:1357/ecdl.php?id=49832&zid=2956aab8ff7a4cc0
 海西影视,http://liuweiiptv.cf:1357/ecdl.php?id=49851&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 吉林篮球,http://liuweiiptv.cf:1357/ecdl.php?id=49852&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 4+汽车,http://liuweiiptv.cf:1357/ecdl.php?id=49853&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★影视★$c_end 密码：
+★影视★,#genre#
 经典港剧,http://liuweiiptv.cf:1357/ecdl.php?id=49910&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 喜剧影院,http://liuweiiptv.cf:1357/ecdl.php?id=49911&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 动作影院,http://liuweiiptv.cf:1357/ecdl.php?id=49912&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -8043,7 +8043,7 @@ ATV 1,http://liuweiiptv.cf:1357/ecdl.php?id=50003&zid=2956aab8ff7a4cc0b9cc0268f5
 新视觉,http://liuweiiptv.cf:1357/ecdl.php?id=50024&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 体育赛事,http://liuweiiptv.cf:1357/ecdl.php?id=50025&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 华侨城,http://liuweiiptv.cf:1357/ecdl.php?id=50026&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★影院★$c_end 密码：
+★影院★,#genre#
 黑莓电影,http://liuweiiptv.cf:1357/ecdl.php?id=50027&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黑莓电影,http://liuweiiptv.cf:1357/ecdl.php?id=50042&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 都市剧场,http://liuweiiptv.cf:1357/ecdl.php?id=50028&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -8060,7 +8060,7 @@ $c_start★影院★$c_end 密码：
 葛優作品集,http://liuweiiptv.cf:1357/ecdl.php?id=50039&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 殭屍劇場,http://liuweiiptv.cf:1357/ecdl.php?id=50040&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 TVB劇場,http://liuweiiptv.cf:1357/ecdl.php?id=50041&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★黑莓★$c_end 密码：
+★黑莓★,#genre#
 黑莓动画,http://liuweiiptv.cf:1357/ecdl.php?id=54013&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黑莓动画,http://liuweiiptv.cf:1357/ecdl.php?id=54014&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 黑莓动画,http://liuweiiptv.cf:1357/ecdl.php?id=54015&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -8088,7 +8088,7 @@ $c_start★黑莓★$c_end 密码：
 黑莓电竞,http://liuweiiptv.cf:1357/ecdl.php?id=54037&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 pp体育,http://liuweiiptv.cf:1357/ecdl.php?id=54038&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 PP体育,http://liuweiiptv.cf:1357/ecdl.php?id=54039&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★chc★$c_end 密码：
+★chc★,#genre#
 CHC动作电影,http://liuweiiptv.cf:1357/ecdl.php?id=50043&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CHC动作电影,http://liuweiiptv.cf:1357/ecdl.php?id=50044&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CHC动作电影,http://liuweiiptv.cf:1357/ecdl.php?id=50045&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -8116,7 +8116,7 @@ CHC家庭影院,http://liuweiiptv.cf:1357/ecdl.php?id=50066&zid=2956aab8ff7a4cc0
 CHC家庭影院,http://liuweiiptv.cf:1357/ecdl.php?id=50067&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CHC家庭影院,http://liuweiiptv.cf:1357/ecdl.php?id=50068&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 CHC家庭影院,http://liuweiiptv.cf:1357/ecdl.php?id=50069&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
-$c_start★少儿★$c_end 密码：
+★少儿★,#genre#
 优漫卡通,http://liuweiiptv.cf:1357/ecdl.php?id=50070&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 卡酷少儿,http://liuweiiptv.cf:1357/ecdl.php?id=50071&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
 哈哈炫动,http://liuweiiptv.cf:1357/ecdl.php?id=50072&zid=2956aab8ff7a4cc0b9cc0268f5c4d55a
@@ -8139,7 +8139,7 @@ Bestv动画1,rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil
 多拉A梦,http://kkiptv.hk3.20212021.ml/bili.php?id=482946
 樱桃小丸子,http://kkiptv.hk3.20212021.ml/bili.php?id=21614203
 樱桃小丸子,http://kkiptv.hk3.20212021.ml/bili.php?id=11765640
-$c_start★港台★$c_end 密码：
+★港台★,#genre#
 凤凰卫视中文台,http://zhiboyuan.cf:2021/225iptv.php?id=44
 凤凰卫视资讯台,http://zhiboyuan.cf:2021/225iptv.php?id=45
 凤凰卫视香港台,http://zhiboyuan.cf:2021/225iptv.php?id=46
