@@ -68,7 +68,7 @@
     "wuduyunjiexi": "https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=",
     "dianshizhibo": "http://42.193.55.242/tv/xzb.php",
     //"caijizhan": "http://xiaomaomi.cc/api.php",
-    "caijizhan": "https://video.ykvideo.cn/api.php/provide/vod/from/ppayun",
+    "caijizhan": "https://video.ykvideo.cn/api.php/provide/vod/",
     "tiyuzhibo": "https://m.zhibo8.net",
     "reci": "https://v.sogou.com",
     "wuqu": "空",
